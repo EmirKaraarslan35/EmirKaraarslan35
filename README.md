@@ -18,13 +18,21 @@ Ben bir siber güvenlik öğrencisiyim ve odağımı **Red Teaming**, **Offensiv
 | **Saldırı Araçları** | Nmap, Metasploit, Burp Suite, Wireshark |
 | **İlgi Alanları** | Malware Analysis, Social Engineering, Network Security |
 
-### 📊 GitHub İstatistiklerim
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirKaraarslan35&show_icons=true&theme=tokyonight" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirKaraarslan35&layout=compact&theme=tokyonight" />
-</p>
+### 📜 Sertifikalar & Başarılar
+| Sertifika | Kurum / Alan | Tarih |
+| :--- | :--- | :--- |
+| 🛡️ **Certified C++ Practitioner Professional (CCPP)** | C++ Programming | Ocak 2026 |
+| 🎓 **Certified Cybersecurity Educator Professional (CCEP)** | Cybersecurity Education | Aralık 2025 |
+| 🚩 **Introduction to Red Team Operation Management** | Red Teaming & Ops | Kasım 2025 |
+| 🐍 **Nesneye Dayalı Programlama - PYTHON** | Software Development | Aralık 2024 |
+
+---
+
+### 🎯 Focus & Learning Path
+- 🛡️ **Defensive Evasion:** AV/EDR sistemlerini atlatma teknikleri üzerine araştırmalar.
+- 🔑 **Active Directory:** Windows domain ortamlarında sızma testleri ve yetki yükseltme.
+- 🌐 **Web Security:** OWASP Top 10 zafiyetleri ve ileri seviye sömürü yöntemleri.
+
 
 ### 📫 Bana Ulaşın
 [LinkedIn](https://www.linkedin.com/in/emirkaraarslan/ ) | [E-posta Gönder](mailto:emsgkara@gmail.com)
