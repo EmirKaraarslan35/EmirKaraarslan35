@@ -20,11 +20,11 @@ Ben bir siber güvenlik öğrencisiyim ve odağımı **Red Teaming**, **Offensiv
 
 ### 📊 GitHub İstatistiklerim
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirKaraarslan35&show_icons=true&theme=tokyonight" alt="Emir's GitHub stats" />
-    
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirKaraarslan35&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmirKaraarslan35&show_icons=true&theme=tokyonight" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirKaraarslan35&layout=compact&theme=tokyonight" />
 </p>
 
 ### 📫 Bana Ulaşın
-[LinkedIn](https://www.linkedin.com/in/emirkaraarslan/) | [E-posta Gönder](mailto:emsgkara@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/emirkaraarslan/ ) | [E-posta Gönder](mailto:emsgkara@gmail.com)
